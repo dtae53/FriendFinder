@@ -1,0 +1,34 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "A Node.js and Express based sports companion matching application.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "6.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtae53/FriendFinder.git"
+  },
+  "keywords": [
+    "sports buddy finder",
+    "sports companion",
+    "compatibility"
+  ],
+  "author": "Davontae Glenn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtae53/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/dtae/FriendFinder#readme"
+}
